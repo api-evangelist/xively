@@ -1,0 +1,58 @@
+{
+    "name": "Xively",
+    "description": "Simplify the creation, deployment, and management of connected products and solutions on the #IoT.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/451-xively.jpg",
+    "tags": [
+        "devices",
+        "have api",
+        "internet of things",
+        "sensors"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/xively\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Xively",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/451-xively.jpg",
+            "humanURL": "https:\/\/xively.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/xively-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/xively-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.xively.com\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/xively"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/xively"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/XivelyIOT"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/xively.com\/"
+        }
+    ]
+}
